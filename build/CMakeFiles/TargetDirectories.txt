@@ -1,0 +1,3 @@
+C:/Igor/Projects/make_test/build/CMakeFiles/make_test.dir
+C:/Igor/Projects/make_test/build/CMakeFiles/ALL_BUILD.dir
+C:/Igor/Projects/make_test/build/CMakeFiles/ZERO_CHECK.dir

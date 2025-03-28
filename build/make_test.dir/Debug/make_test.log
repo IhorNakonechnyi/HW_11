@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Igor/Projects/make_test/CMakeLists.txt
+  Scanning sources for module dependencies...
+  Fruit.cpp
+  function.cpp
+  main.cpp
+  Compiling...
+  main.cpp
+  Fruit.cpp
+  function.cpp
+  make_test.vcxproj -> C:\Igor\Projects\make_test\build\Debug\make_test.exe

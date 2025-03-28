@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "make_test.dir\\Release\\Fruit.obj",
+            "outputs": [
+                "make_test.dir\\Release\\"
+            ],
+            "requires": []
+        }
+    ]
+}

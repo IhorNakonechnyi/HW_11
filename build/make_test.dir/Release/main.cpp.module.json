@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "make_test.dir\\Release\\main.obj",
+            "outputs": [
+                "make_test.dir\\Release\\"
+            ],
+            "requires": []
+        }
+    ]
+}
